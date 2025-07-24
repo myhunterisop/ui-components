@@ -1,0 +1,1 @@
+export { default as UiIco } from './src/UiIco/UiIco.vue' 
